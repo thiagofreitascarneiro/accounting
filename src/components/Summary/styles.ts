@@ -29,7 +29,7 @@ export const SummaryCard = styled.div<SummaryCardProps>`
     }
 
     strong {
-        display: none;
+        
         margin-top: 1rem;
         font-size: 2rem;
     }
